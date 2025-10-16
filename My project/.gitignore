@@ -1,0 +1,8 @@
+# Unity specific
+Library/
+Temp/
+Logs/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/ 
